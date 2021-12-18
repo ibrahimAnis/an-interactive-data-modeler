@@ -4,7 +4,7 @@ Data Modeler is a Entity-Relationship web component for drawing diagrams in Bark
 
 ## Preview
 
-- Production: https://ibrahimanis.github.io/an-interactive-data-modeler/example.html
+- Production: https://ibrahimanis.github.io/an-interactive-data-modeler
 - Development: https://ibrahimanis.github.io/an-interactive-data-modeler/dev.html
 
 ## Features
