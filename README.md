@@ -1,10 +1,10 @@
-# Data Modeler
+# An Interactive Data Modeler (AIDM)
 
-Data Modeler is a Entity-Relationship web component for drawing diagrams in Barker notation. It was developed as a master's thesis project at Faculty of Information Technology at Czech Technical University in Prague. The main purpose of this modeler was to support education process of the Database Systems course. Since students will work in this modeler mostly during tests and exams, we have aimed for minimalism, simplicity and efficiency in user interface design.
+Data Modeler is a Entity-Relationship web component for drawing diagrams in Barker notation.
 
 ## Preview
 
-- Production: https://ibrahimanis.github.io/an-interactive-data-modeler/example.html
+- Production: https://ibrahimanis.github.io/an-interactive-data-modeler
 - Development: https://ibrahimanis.github.io/an-interactive-data-modeler/dev.html
 
 ## Features
@@ -105,12 +105,12 @@ are located in `model`, `view` and `control` folder and follow MVC architecture.
 
 ## Deployment
 
-Refer to `dev.html` and `example.html`.
+Refer to `dev.html` and `index.html`.
 
 `dev.html` shows deployment of non-merged source files,
 useful during development because there is no need to build production file.
   
-`example.html` similar than previous example, this one is using minimized production file for loading data modeler code. 
+`index.html` similar than previous example, this one is using minimized production file for loading data modeler code. 
 
 When building production file (found in `dist` folder with the minified version),
 you can use proprietary ruby build script (very crude implementation,
